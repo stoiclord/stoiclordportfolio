@@ -1,7 +1,7 @@
 module.exports = {
   siteName: 'David John',
   siteDescription: 'This is the portfolio of David John.',
-  siteUrl: 'https://davidjohndev.netlify.app/',
+  siteUrl: 'https://stoiclord.netlify.app/',
 
   templates: {
     Post: '/:title',

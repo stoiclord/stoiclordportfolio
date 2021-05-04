@@ -1,5 +1,5 @@
 {
-  "name": "davidjohnportfolio",
+  "name": "stoiclordportfolio",
   "private": true,
   "scripts": {
     "build": "gridsome build",

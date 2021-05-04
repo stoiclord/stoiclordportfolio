@@ -49,21 +49,21 @@
         <a href="https://www.linkedin.com/in/thedavidjohn/" target="_blank" rel="noopener noreferrer">
           <font-awesome :icon="['fab', 'linkedin']"/>
         </a>
-        <a href="https://github.com/thedavidjohn" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/stoiclord" target="_blank" rel="noopener noreferrer">
           <font-awesome :icon="['fab', 'github']"/>
         </a>
-        <!-- <a href="https://twitter.com/davidjohn_dev" target="_blank" rel="noopener noreferrer">
+        <a href="https://twitter.com/thestoiclord" target="_blank" rel="noopener noreferrer">
           <font-awesome :icon="['fab', 'twitter']"/>
         </a>
-        <a href="https://www.youtube.com/channel/UCGT3aEORfmqhHccx8QKtcTQ" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.youtube.com/channel/UCgvrU7AniX46kypybSzRBBA" target="_blank" rel="noopener noreferrer">
           <font-awesome :icon="['fab', 'youtube']"/>
         </a>
-        <a href="https://instagram.com/davidjohn.dev" target="_blank" rel="noopener noreferrer">
+        <!-- <a href="https://instagram.com/davidjohn.dev" target="_blank" rel="noopener noreferrer">
           <font-awesome :icon="['fab', 'instagram']"/>
-        </a>
-        <a href="mailto:david828john@gmail.com" target="_blank" rel="noopener noreferrer">
-          <font-awesome :icon="['fas', 'rss']"/>
         </a> -->
+        <a href="mailto:stoiclord6@gmail.com" target="_blank" rel="noopener noreferrer">
+          <font-awesome :icon="['fas', 'rss']"/>
+        </a>
       </div>
       <div class="lead mb-5"></div>
       <div class="hrefblog lead mb-5" style="float:right;">
