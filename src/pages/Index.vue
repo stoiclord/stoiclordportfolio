@@ -9,10 +9,10 @@
       <hr class="m-0">
       <Skills/>
       <hr class="m-0">
-      <Experience/>
+      <!-- <Experience/>
       <hr class="m-0">
       <Education/>
-      <hr class="m-0">
+      <hr class="m-0"> -->
       <Interests/>
     </div>
   </Layout>
@@ -49,7 +49,7 @@ export default {
     Projects
   },
   metaInfo: {
-    title: "David John",
+    title: "Stoic Lord",
     titleTemplate: "%s"
   }
 };

@@ -1,10 +1,10 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="sideNav">
     <div style="float:left; padding-right:2px" v-on:click.prevent="$scrollTo('#about')" class="navbar-brand">
-      <g-link exact to="/"><span class="d-none d-lg-none">David John</span>
+      <g-link exact to="/"><span class="d-none d-lg-none">Stoic Lord</span>
       <span class="d-lg-block" >
          <g-image
-          alt="Image of David"
+          alt="Image of Stoic Lord"
           src="../assets/images/profile.jpg"
           class="img-fluid img-profile rounded-circle mx-auto mb-2"
         />
@@ -35,7 +35,7 @@
             <div><g-link exact to="/">Skills</g-link></div>
           </div>
         </li>
-        <li class="nav-item">
+        <!-- <li class="nav-item">
           <div class="nav-link" v-on:click.prevent="$scrollTo('#experience')">
             <div><g-link exact to="/">Experience</g-link></div>
           </div>
@@ -46,7 +46,7 @@
             <div><g-link exact to="/">Education</g-link></div>
           </div>
         </li>
-        </div>
+        </div> -->
         <div id="interestsdiv">
         <li class="nav-item">
           <div class="nav-link" v-on:click.prevent="$scrollTo('#interests')">

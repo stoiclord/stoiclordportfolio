@@ -2,21 +2,23 @@
   <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
     <div class="w-100">
       <h1>
-        David
-        <span >John</span>
+        Stoic
+        <span >Lord</span>
       </h1>
       <div class="subheading mb-3">
-        Software Engineer · Pune, India   
+        Software Engineer  
       </div>
       <div class="lead mb-3 font-weight-bold">
       <p>
 						<!-- <span>Software Engineer</span><span class="bar"> | </span> -->
+            <span>Go</span><span class="bar"> | </span>
             <span>Java</span><span class="bar"> | </span>
             <span>Scala</span><span class="bar"> | </span>
+            <span>TypeScript</span><span class="bar"> | </span>
 						<span>Microservices</span><span class="bar"> | </span>
             <span>Angular</span><span class="bar"> | </span>
-            <span>ReactJS</span><span class="bar"> | </span>
             <span>VueJS</span><span class="bar"> | </span>
+            <span>MongoDB</span><span class="bar"> | </span>
             <span>NodeJS</span>
 					</p>
           </div>
@@ -46,9 +48,9 @@
       </p> -->
       <div class="lead mb-5"></div>
       <div class="social-icons">
-        <a href="https://www.linkedin.com/in/thedavidjohn/" target="_blank" rel="noopener noreferrer">
+        <!-- <a href="https://www.linkedin.com/in/thedavidjohn/" target="_blank" rel="noopener noreferrer">
           <font-awesome :icon="['fab', 'linkedin']"/>
-        </a>
+        </a> -->
         <a href="https://github.com/stoiclord" target="_blank" rel="noopener noreferrer">
           <font-awesome :icon="['fab', 'github']"/>
         </a>
