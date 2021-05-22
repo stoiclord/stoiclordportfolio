@@ -54,9 +54,9 @@
         <a href="https://github.com/stoiclord" target="_blank" rel="noopener noreferrer">
           <font-awesome :icon="['fab', 'github']"/>
         </a>
-        <a href="https://twitter.com/thestoiclord" target="_blank" rel="noopener noreferrer">
+        <!-- <a href="https://twitter.com/thestoiclord" target="_blank" rel="noopener noreferrer">
           <font-awesome :icon="['fab', 'twitter']"/>
-        </a>
+        </a> -->
         <a href="https://www.youtube.com/channel/UCgvrU7AniX46kypybSzRBBA" target="_blank" rel="noopener noreferrer">
           <font-awesome :icon="['fab', 'youtube']"/>
         </a>
