@@ -24,7 +24,7 @@
           </div>
           <div class="lead mb-2">
       <p>
-        A passionate, hands-on professional, I have around 8 years of experience in software development.
+        A passionate, hands-on professional, I have around 9.5 years of experience in software development.
         I keep atop of new developments within the industry and can adapt quickly 
         to new coding conventions.</p>
       </div>
