@@ -1,7 +1,7 @@
 ---
 title: An Intro To JavaScript
 date: 2020-07-07
-published: true
+published: false
 tags: ['Markdown', 'Cover Image']
 series: false
 cover_image: ./images/intro-to-js-img.jpg

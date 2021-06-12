@@ -15,7 +15,7 @@
 
     <div class="post content-box" style="margin-left:25px; margin-right:25px">
       <div class="post__header" style="border-radius:10px">
-        <g-image alt="Cover image" v-if="$page.post.cover_image" :src="$page.post.cover_image" />
+        <g-image width="500" height="500" fit="contain" alt="Cover image" v-if="$page.post.cover_image" :src="$page.post.cover_image" />
       </div>
 
       <div class="post__content" v-html="$page.post.content" />
@@ -123,6 +123,7 @@ query Post ($id: ID!) {
       margin-left: calc(var(--space) * -1);
       display: block;
       max-width: 100%;
+      height: auto;
       border-radius: 10px;
     }
   }
