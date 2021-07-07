@@ -1,10 +1,10 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="sideNav">
     <div style="float:left; padding-right:2px" v-on:click.prevent="$scrollTo('#about')" class="navbar-brand">
-      <g-link exact to="/"><span class="d-none d-lg-none">Stoic Lord</span>
+      <g-link exact to="/"><span class="d-none d-lg-none">David John</span>
       <span class="d-lg-block" >
          <g-image
-          alt="Image of Stoic Lord"
+          alt="Image of David"
           src="../assets/images/profile.jpg"
           class="img-fluid img-profile rounded-circle mx-auto mb-2"
         />

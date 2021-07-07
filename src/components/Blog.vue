@@ -46,7 +46,7 @@ export default {
     PostCard
   },
   metaInfo: {
-    title: 'Stoic Lord'
+    title: 'David John'
   }
 }
 </script>
