@@ -2,24 +2,23 @@
   <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
     <div class="w-100">
       <h1>
-        Stoic
-        <span >Lord</span>
+        David
+        <span >John</span>
       </h1>
       <div class="subheading mb-3">
-        Software Engineer  
+        Senior Software Engineer  
       </div>
       <div class="lead mb-3 font-weight-bold">
       <p>
 						<!-- <span>Software Engineer</span><span class="bar"> | </span> -->
-            <span>Go</span><span class="bar"> | </span>
             <span>Java</span><span class="bar"> | </span>
             <span>Scala</span><span class="bar"> | </span>
-            <span>TypeScript</span><span class="bar"> | </span>
+            <!-- <span>Go</span><span class="bar"> | </span> -->
+            <span>Spring Boot</span><span class="bar"> | </span>
 						<span>Microservices</span><span class="bar"> | </span>
             <span>Angular</span><span class="bar"> | </span>
-            <span>VueJS</span><span class="bar"> | </span>
             <span>MongoDB</span><span class="bar"> | </span>
-            <span>NodeJS</span>
+            <span>SQL</span>
 					</p>
           </div>
           <div class="lead mb-2">
@@ -48,22 +47,22 @@
       </p> -->
       <div class="lead mb-5"></div>
       <div class="social-icons">
-        <!-- <a href="https://www.linkedin.com/in/thedavidjohn/" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/in/thedavidjohn/" target="_blank" rel="noopener noreferrer">
           <font-awesome :icon="['fab', 'linkedin']"/>
-        </a> -->
+        </a>
         <a href="https://github.com/stoiclord" target="_blank" rel="noopener noreferrer">
           <font-awesome :icon="['fab', 'github']"/>
         </a>
         <!-- <a href="https://twitter.com/thestoiclord" target="_blank" rel="noopener noreferrer">
           <font-awesome :icon="['fab', 'twitter']"/>
         </a> -->
-        <a href="https://www.youtube.com/channel/UCgvrU7AniX46kypybSzRBBA" target="_blank" rel="noopener noreferrer">
+        <!-- <a href="https://www.youtube.com/channel/UCgvrU7AniX46kypybSzRBBA" target="_blank" rel="noopener noreferrer">
           <font-awesome :icon="['fab', 'youtube']"/>
-        </a>
+        </a> -->
         <!-- <a href="https://instagram.com/davidjohn.dev" target="_blank" rel="noopener noreferrer">
           <font-awesome :icon="['fab', 'instagram']"/>
         </a> -->
-        <a href="mailto:stoiclord6@gmail.com" target="_blank" rel="noopener noreferrer">
+        <a href="mailto:david828john@gmail.com" target="_blank" rel="noopener noreferrer">
           <font-awesome :icon="['fas', 'rss']"/>
         </a>
       </div>

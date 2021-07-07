@@ -17,10 +17,46 @@
               <div class="progress-bar bg-dark" role="progressbar"  style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
             </div> 
 					</li>
-					<li>
-						 <strong>TypeScript</strong> <span class="float-right">25%</span>
+          	<li>
+					 <strong>Spring Boot/Spring MVC/Spring Security</strong> <span class="float-right">95%</span>
             <div class="progress  mb-2">
-              <div class="progress-bar bg-dark" role="progressbar"  style="width: 25%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+              <div class="progress-bar bg-dark" role="progressbar"  style="width: 95%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
+            </div> 
+					</li>
+          <li>
+           <strong>Microservices</strong> <span class="float-right">75%</span>
+            <div class="progress  mb-2">
+              <div class="progress-bar bg-dark" role="progressbar"  style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+            </div> 
+					</li>
+          <li>
+           <strong>Angular</strong> <span class="float-right">75%</span>
+            <div class="progress ">
+              <div class="progress-bar bg-dark" role="progressbar"  style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+            </div> 
+					</li>
+					<li>
+						 <strong>TypeScript</strong> <span class="float-right">75%</span>
+            <div class="progress  mb-2">
+              <div class="progress-bar bg-dark" role="progressbar"  style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+            </div> 
+					</li>
+					<li>
+					 <strong>Play Framework</strong> <span class="float-right">75%</span>
+            <div class="progress  mb-2">
+              <div class="progress-bar bg-dark" role="progressbar"  style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+            </div> 
+					</li>
+					<li>
+            <strong>MongoDB</strong> <span class="float-right">75%</span>
+            <div class="progress  mb-2">
+              <div class="progress-bar bg-dark" role="progressbar"  style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+            </div> 
+					</li>
+          	<li>
+            <strong>SQL</strong> <span class="float-right">95%</span>
+            <div class="progress  mb-2">
+              <div class="progress-bar bg-dark" role="progressbar"  style="width: 95%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
             </div> 
 					</li>
 					<li>
@@ -29,36 +65,7 @@
               <div class="progress-bar bg-dark" role="progressbar"  style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
             </div> 
 					</li>
-					<li>
-					 <strong>Spring Boot/ MVC</strong> <span class="float-right">95%</span>
-            <div class="progress  mb-2">
-              <div class="progress-bar bg-dark" role="progressbar"  style="width: 95%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
-            </div> 
-					</li>
-					<li>
-            <strong>MongoDB</strong> <span class="float-right">65%</span>
-            <div class="progress  mb-2">
-              <div class="progress-bar bg-dark" role="progressbar"  style="width: 65%" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100"></div>
-            </div> 
-					</li>
-					<li>
-           <strong>ReactJS</strong> <span class="float-right">65%</span>
-            <div class="progress  mb-2">
-              <div class="progress-bar bg-dark" role="progressbar"  style="width: 65%" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100"></div>
-            </div> 
-					</li>
-					<li>
-           <strong>VueJS</strong> <span class="float-right">65%</span>
-            <div class="progress  mb-2">
-              <div class="progress-bar bg-dark" role="progressbar"  style="width: 65%" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100"></div>
-            </div> 
-					</li>
-					<li>
-           <strong>Angular</strong> <span class="float-right">65%</span>
-            <div class="progress ">
-              <div class="progress-bar bg-dark" role="progressbar"  style="width: 65%" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100"></div>
-            </div> 
-					</li>
+				
 
 				</ul>
       <br>

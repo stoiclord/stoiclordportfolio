@@ -6,10 +6,11 @@
       <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="resume-content">
           <div class="mb-0"><h3>Senior Software Development Engineer</h3></div>
-          <div class="subheading mb-3">Mastercard</div>
-          <p>&#8226;Currently working as a Senior Software Engineer 
-								 - developing a few products related to Mastercard's Prepaid Card.
-                <br> &#8226; The tech stack I'm working on is Java, RESTful Webservices, Scala, Angular and Typescript.</p>
+          <div class="subheading mb-3">Mastercard, Pune, India</div>
+          <p>&#8226; Designed and developed "Batch UI" functionality in Scala, Play and Slick framework which allows branch users to upload transaction files and convert them into acceptable format seamlessly.
+                <br> &#8226; Introduced Akka Actor using Scala in a legacy project to asynchronously process transaction files.
+                 <br> &#8226; Created a Sync Utility to be used by Biz Ops team to sync Cardholder data from one project to another, saving hours of manual work.
+                </p>
         </div>
         <div class="resume-date text-md-right">
           <span >January 2020 - Present</span>
@@ -19,14 +20,15 @@
       <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="resume-content">
           <div class="mb-0"> <h3>Senior Software Engineer</h3></div>
-          <div class="subheading mb-3">Zensar Technologies</div>
+          <div class="subheading mb-3">Zensar Technologies, Pune, India</div>
           <p>
-                &#8226;Designed and developed the end-to-end “Assign Accounts to Collector”
+                &#8226; Designed and developed the end-to-end “Assign Accounts to Collector”
 								module which allows debt accounts to be assigned to collector agents.
-								<br>&#8226;Built the complete “Difficult Accounts” module for assigning defaulter debt
+								<br>&#8226; Built the complete “Difficult Accounts” module for assigning defaulter debt
 								accounts to legal authorities.
-								<br>&#8226;Created a Jenkins devops pipeline from scratch for Continuous Deployment
+								<br>&#8226; Created a Jenkins devops pipeline from scratch for Continuous Deployment
 								of John Lewis's CMS application called ProductHub.
+                <br>&#8226; Using Java 8’s Stream API, decreased the number of database calls significantly during page load, and thus lowered the page loading time by 80%.
 
 
           </p>
@@ -39,7 +41,7 @@
       <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="resume-content">
           <div class="mb-0"> <h3>Module Lead</h3></div>
-          <div class="subheading mb-3">Mindtree Limited</div>
+          <div class="subheading mb-3">Mindtree Limited, Pune, India</div>
           <p>
                 &#8226; Implemented end-to-end &#8220;Cancellation of Payment&#8221; flow for NPP,
 								an Australian payments platform. <br>&#8226; Built the complete
@@ -62,7 +64,7 @@
       <div class="resume-item d-flex flex-column flex-md-row justify-content-between">
         <div class="resume-content">
          <div class="mb-0"> <h3>Technology Analyst</h3></div>
-          <div class="subheading mb-3">Infosys Limited</div>
+          <div class="subheading mb-3">Infosys Limited, Pune, India</div>
           <p>
                 &#8226; Module lead for one of the modules (D000 detailed design). Built
 								two key plugins (Wrapper calculators and F2JTranslation) using
