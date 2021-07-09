@@ -37,7 +37,7 @@
         </li>
         <li class="nav-item">
           <div class="nav-link" v-on:click.prevent="$scrollTo('#experience')">
-            <div><g-link exact to="/">Work Experience</g-link></div>
+            <div><g-link exact to="/">Experience</g-link></div>
           </div>
         </li>
         <div id="educationdiv">
